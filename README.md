@@ -1,6 +1,6 @@
 ## Olá! eu sou Bruno Martins 
 - :busts_in_silhouette: Migração de carreira
-- :brain: Estudando HTML , CSS , JavaScript
+- :brain: Estudando HTML , CSS , JavaScript, Java
 
 
 
