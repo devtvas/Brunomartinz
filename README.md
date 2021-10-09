@@ -1,6 +1,7 @@
 ## Olá! eu sou Bruno Martins 
 - :busts_in_silhouette: Migração de carreira
-- :brain: Estudando HTML , CSS , JavaScript, Java , Nodejs
+- :brain: Estudando HTML , CSS , JavaScript, Nodejs
+- 🧑‍🎓: Análise e Desenvolvimento de Sistemas , SENAC SP
 
 
 
