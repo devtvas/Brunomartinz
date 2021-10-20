@@ -1,6 +1,5 @@
 ## Olá! eu sou Bruno Martins 
 - :shipit: Migração de carreira
-- 🤯 Estudando HTML , CSS , JavaScript.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas , SENAC SP
 
 
