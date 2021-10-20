@@ -4,7 +4,7 @@
 
 
 
- <div align="center">Em 2019 decidi migrar para a área de tecnologia para codificar um mundo melhor a cada dia. Sou um desenvolvedor {frontend e backend}. Aproveitando também a oportunidade para explorar ainda mais o mundo do design, UI / UX e acessibilidade.
+ <div align="center">Em 2019 decidi migrar para a área de tecnologia para codificar um mundo melhor a cada dia. Sou um desenvolvedor {frontend e backend}.
   </div>
 <p>
 <div align="center">
