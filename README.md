@@ -31,7 +31,7 @@
 <p></p>
 
 <p align="center">
-  <a href="https://github.com/Chriszao">
+  <a href="https://github.com/Brunomartinz">
     <img src="https://github-readme-stats.vercel.app/api?username=Brunomartinz&show_icons=true&theme=dracula&line_height=27" alt="Brunomartinz github stats"/>
   </a>
 </p>
